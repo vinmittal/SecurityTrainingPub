@@ -1,4 +1,4 @@
-Week 1 Assignments
+Week 1 System Management Assignments
 	1.Uderstanding users, groups, file permissions in linux
 	2.Write a script that takes n users, groups and home directories and 
 		provisions the user in the linux OS and Windows OS
@@ -11,4 +11,16 @@ Week 1 Assignments
 	9.setup ssh on a windows server
 	10. Connect open ldap to a linux machine for login. Submit openldap logs for authentication. Configure pam ladp for linux users to login to pam ldap
 	11. Connect windows Active Directory to windows for authentication
-	12. Configure kerberos authentication on  linux
+	12. If you find a bad user disable its login? if a user tries to login, capture its login failures in the log files
+	13. Configure kerberos authentication on  linux
+Week1 : Offensive assignments
+	1. On Event Login Failure : capture the login failure event in the log
+	2. Set Password policy and capture any violations of the password policy
+	3. change the users group and capture the audit log evidence
+	4. Access files of another user and capture the access in the logs
+	5. chown of a common directory and capture the evidence
+	6. capture the logs of su user
+	7. Explain SUID, SGID, and Sticky Bits Create some files with suid, sgid and write scripts to find them
+	8. Study Tripwire and comapare its output after and before changing files
+Research Assignments 
+
