@@ -1,0 +1,14 @@
+Week 1 Assignments
+	1.Uderstanding users, groups, file permissions in linux
+	2.Write a script that takes n users, groups and home directories and 
+		provisions the user in the linux OS and Windows OS
+	3.Once the users are created, present the evidence that users were created and at what time from the audit logs. Submit the samples of audit log files. 
+	4.Write a script to list the users and groups provisoned on a linux or windows system. The output should be a file that lists those users. 
+	5.Submit the output of who logged in and when on a linux machine. 
+	6.Change the file permission to observe, the changes in the linux audit log
+	7.Install packages as sudo and provide evidence on when those packages were installed
+	8.setup ssh on a linux server
+	9.setup ssh on a windows server
+	10. Connect open ldap to a linux machine for login. Submit openldap logs for authentication. Configure pam ladp for linux users to login to pam ldap
+	11. Connect windows Active Directory to windows for authentication
+	12. Configure kerberos authentication on  linux
