@@ -21,7 +21,7 @@ Week1 : Offensive assignments
 	5. chown of a common directory and capture the evidence
 	6. capture the logs of su user
 	7. Explain SUID, SGID, and Sticky Bits Create some files with suid, sgid and write scripts to find them
-	8. Study Tripwire and comapare its output after and before changing files
+	8. Study Tripwire and compare its output after and before changing files
 Research Assignments 
 Lets look at this proposal at MIT and implement it
 Honeywords:Making Password-Cracking Detectable
