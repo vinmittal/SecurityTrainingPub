@@ -23,4 +23,7 @@ Week1 : Offensive assignments
 	7. Explain SUID, SGID, and Sticky Bits Create some files with suid, sgid and write scripts to find them
 	8. Study Tripwire and comapare its output after and before changing files
 Research Assignments 
+Lets look at this proposal at MIT and implement it
+Honeywords:Making Password-Cracking Detectable
+http://people.csail.mit.edu/rivest/honeywords/
 
