@@ -1,4 +1,4 @@
- ** Q. When does the tenure of the internship start? **
+ ** When does the tenure of the internship start? **
  
 We have already started the first week assignments are already provided. The purpose of the internship 
 is to work in a collaborative work environment just like in a office. When you join a company you are expected to learn
