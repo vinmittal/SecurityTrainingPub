@@ -1,4 +1,4 @@
-Q.** When does the tenure of the internship start?
+Q. ** When does the tenure of the internship start? **
  
 We have already started the first week assignments are already provided. The purpose of the internship 
 is to work in a collaborative work environment just like in a office. When you join a company you are expected to learn
@@ -6,7 +6,7 @@ and contribute to the project. This is not a classroom environment. It may be in
 is to take that fear out and make you job ready. Once you go through this you will have great deal of confidence to work 
 professionally. It ends by December 18th, by which time hopefully you will have job offers etc. 
 
-Q. ** Can we carry on our work sitting from home/college?
+Q. ** Can we carry on our work sitting from home/college? **
 
 I see no reason why you cannot. In this day and age we should be able to work collaboratively over the internet and cloud. 
 I would also encourage you to take up the free virtual machines that amazon and google clouds are giving. All you need is a
@@ -14,21 +14,21 @@ credit card. they will not charge you, they just need that for verification.
 Only challenge that you will have working from home/college is the focus. You might get distracted. Please see if you 
 can figure that part out. 
 
-Q. ** Will I get certificate of internship?
+Q. ** Will I get certificate of internship? **
 
 Yes you will, As i stated in the offer also. the certificate of merit in internship provides a judgement of how well you did. 
 In addition to that i will be writing a recommendataion highlighing your code and key insights for the prospective employer.Our purpose is to get you job in/through our organization by the time intership ends or may be even in a few months following that. 
 
-Q. After successful completion of internship, what areas of this field will I get mastery?
+Q. ** After successful completion of internship, what areas of this field will I get mastery? **
 
 As we said briefly, there are three main job roles in the industry today at entry level. You should expect good mastery
 in the areas mentioned below once you decide which area you want to pursue. As i said this is not a class, this is a simulated work environment, where you are actually solving problems. 
 
-Security Management : ( SOC engineer, Cyber Security Jobs, Cyber Security Engineer, Analyst, Forensics) 
+** Security Management : ( SOC engineer, Cyber Security Jobs, Cyber Security Engineer, Analyst, Forensics) **
 
-Security Testinng : ( Penetration Testing, Fuzing, Taint Analysis, Malware Reversing, Load testing, Exploits)
+** Security Testinng : ( Penetration Testing, Fuzing, Taint Analysis, Malware Reversing, Load testing, Exploits) **
 
-Securit Developer : ( secure code development in Java, C, Python, Scala)
+** Security Developer : ( secure code development in Java, C, Python, Scala)**
 
 I will make a folder here and start to demonstrate the job expecatations of diferent jobs out there. 
 
