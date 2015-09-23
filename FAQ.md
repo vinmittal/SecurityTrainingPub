@@ -5,7 +5,6 @@ is to work in a collaborative work environment just like in a office. When you j
 and contribute to the project. This is not a classroom environment. It may be initially challenging but the whole purpose
 is to take that fear out and make you job ready. Once you go through this you will have great deal of confidence to work 
 professionally. It ends by December 18th, by which time hopefully you will have job offers etc. 
-
 2. Can we carry on our work sitting from home/college?
 
 I see no reason why you cannot. In this day and age we should be able to work collaboratively over the internet and cloud. 
@@ -26,13 +25,15 @@ in the areas mentioned below once you decide which area you want to pursue. As i
 
 **Security Management : ( SOC engineer, Cyber Security Jobs, Cyber Security Engineer, Analyst, Forensics)**
 
-**Security Testinng : ( Penetration Testing, Fuzing, Taint Analysis, Malware Reversing, Load testing, Exploits)**
+**Security Testinng : ( Penetration Testing, Fuzzing, Taint Analysis, Malware Reversing, Load testing, Exploits)**
 
-**Security Developer : ( secure code development in Java, C, Python, Scala)**
+**Security Developer : ( Secure code development in Java, C, Python, Scala, Big Data)**
 
 I will make a folder here and start to demonstrate the job expecatations of diferent jobs out there. 
 
-As far as i could tell the applicants look more comfortable in security management. Some people in the group will also be doingsecure coding and testing. The sooner you can decide which group you will want to be in, that will help. I would encourage everybody to start with week 1 activities and see what you like, what is easy or hard for you. Again the assignments are at different levels, some people will complete basic, some will do advanced and some will solve reseaerch problems like the one mentioend in week1. So, placement also will depend on the capability. But sometimes one also learns from oberving others. In my 23+ years of experience i have seen thousands of engineers with same fears, believe me all this will vanish once you apply your mind and solve problems. 
+As far as i could tell the applicants look more comfortable in security management. Some people in the group will also be doing secure coding and testing. The sooner you can decide which group you will want to be in, that will help. I would encourage everybody to start with week 1 activities and see what you like, what is easy or hard for you. 
+
+Again the assignments are at different levels, some people will complete basic, some will do advanced and some will solve reseaerch problems like the one mentioend in week1. So, placement also will depend on the capability. But sometimes one also learns from oberving others. In my 23+ years of experience i have seen thousands of engineers with same fears, believe me all this will vanish once you apply your mind and solve problems. 
 
 5. Can I come to bangalore office in last 30 days and work there?
 
