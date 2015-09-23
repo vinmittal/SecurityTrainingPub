@@ -1,21 +1,18 @@
-1. ** When does the tenure of the internship start?
-
-We have already started the first week assignments are already provided. The purpose of the internship 
+1. When does the tenure of the internship start?
+ We have already started the first week assignments are already provided. The purpose of the internship 
 is to work in a collaborative work environment just like in a office. When you join a company you are expected to learn
 and contribute to the project. This is not a classroom environment. It may be initially challenging but the whole purpose
 is to take that fear out and make you job ready. Once you go through this you will have great deal of confidence to work 
 professionally. It ends by December 18th, by which time hopefully you will have job offers etc. 
 
 2. Can we carry on our work sitting from home/college?
-
-I see no reason why you cannot. In this day and age we should be able to work collaboratively over the internet and cloud. 
+   I see no reason why you cannot. In this day and age we should be able to work collaboratively over the internet and cloud. 
 I would also encourage you to take up the free virtual machines that amazon and google clouds are giving. All you need is a
 credit card. they will not charge you, they just need that for verification. 
 Only challenge that you will have working from home/college is the focus. You might get distracted. Please see if you 
 can figure that part out. 
 
-
-3. Will I get certificate of internship?
+3.Will I get certificate of internship?
 
 Yes you will, As i stated in the offer also. the certificate of merit in internship provides a judgement of how well you did. 
 In addition to that i will be writing a recommendataion highlighing your code and key insights for the prospective employer. 
