@@ -24,9 +24,11 @@ In addition to that i will be writing a recommendataion highlighing your code an
 As we said briefly, there are three main job roles in the industry today at entry level. You should expect good mastery
 in the areas mentioned below once you decide which area you want to pursue. As i said this is not a class, this is a simulated work environment, where you are actually solving problems. 
 
-Security Management : ( SOC engineer, Cyber Security Jobs, Cyber Security Engineer, Analyst, Forensics) 
-Security Testinng : ( Penetration Testing, Fuzing, Taint Analysis, Malware Reversing, Load testing, Exploits)
-Security Developer : ( secure code development in Java, C, Python, Scala)
+**Security Management : ( SOC engineer, Cyber Security Jobs, Cyber Security Engineer, Analyst, Forensics)**
+
+**Security Testinng : ( Penetration Testing, Fuzing, Taint Analysis, Malware Reversing, Load testing, Exploits)**
+
+**Security Developer : ( secure code development in Java, C, Python, Scala)**
 
 I will make a folder here and start to demonstrate the job expecatations of diferent jobs out there. 
 
