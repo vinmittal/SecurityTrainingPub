@@ -1,4 +1,4 @@
-# Python Script to Implement Hney Password
+# Python Script to Implement Honey Password
 
 This is a demo script to implement Honey Passowrds as per https://people.csail.mit.edu/rivest/honeywords/.
 
