@@ -1,3 +1,7 @@
 Let us write down all our questions here.
 
 Q1. How do you create a folder in the repository?
+Answer: There are two approaches, one through GUI, you can type a folder + a file name. 
+        Best is to download gihub for windows and the bash shell as well. syncronize using that. changes that you make on the loca
+        folder will be synced up and vice versa to github
+        
