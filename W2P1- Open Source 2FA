@@ -1,0 +1,22 @@
+OOBA Authentication
+
+The essential idea behind out-of-band authentication is that by using two different channels, 
+authentication systems can guard against fraudulent users that may only have access to one of these channels.
+
+One of the most common examples of out-of-band authentication is in banking transactions. 
+Typically, a customer wishing to do an online bank transaction will be sent an SMS message by cell phone with a password. 
+This way, any hackers or identity thieves that have access through key loggers or other equipment will not be able to access that particular password, because it is sent over a 3G or 4G wireless network instead of being sent over the Internet. 
+This type of authentication can be extremely effective as long as fraudulent operators haven’t somehow gained access to the user’s cell phone system as well. 
+If the actor can intercept the user’s cell phone communications, it may be possible to overcome out-of-band authentication security protocols.
+
+List of resources that use 2FA- https://twofactorauth.org/
+
+Most commonly used 2FA method, in descending order-
+•	SMS- generally TOTP or OTP using HMAC
+•	S/w Token- Encryption using Public or Private Key Cryptography
+•	Phone Call
+•	Email
+•	H/w Token- Some h/w that is always needed for transaction. Eg- ATM Card
+
+A problem with Email based tokens is with account recovery. If a user can’t access their 2FA token, generally they request for an account recovery. As has been the case with multiple users, this can be compromised using Man-in-the-middle attack and is thus low on security.
+The system of Software Token as 2FA method is being now-a-days preferred over SMS as 2FA method. The reason being the fact that S/w Token can be used across multiple devices as compared to SMS which are sent over GSM or CDMA signals, thus making them less portable and less secure too. Also, there’s no constraint of usage in the case when a user does not have their phone for service, as an example. However, S/w tokens can be hacked by using simple phishing attacks, malware attacks or even session-key hijacking.
