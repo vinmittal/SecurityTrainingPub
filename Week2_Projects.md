@@ -27,6 +27,12 @@ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-6829
 A good repository that is a placeholder for lots of interesting datasets
 http://www.secrepo.com/
 
+Project 3 
+we need a group to develop greater exeprtise in snort and packet inspection. 
+http://www.netresec.com/?page=PcapFiles
+A lot of pacap files are located here, would like people to use snort , wireshark and foucus on extracting sessions and building rules. 
+
+
 
 
 
